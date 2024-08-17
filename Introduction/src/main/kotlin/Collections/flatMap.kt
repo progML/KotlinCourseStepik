@@ -3,7 +3,6 @@ package Collections
 //https://stepik.org/lesson/46378/step/1?unit=24414
 
 
-data class Product(val name: String, val price: Double)
 
 
 // Return all products this customer has ordered
